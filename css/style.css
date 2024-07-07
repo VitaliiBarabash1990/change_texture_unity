@@ -252,7 +252,7 @@ border-radius: 8px;
 	width: 800px;
 	height: 800px;
 	flex-shrink: 0;
-	background: url(/images/bedroom.png);
+	background: url(../images/bedroom.png);
 	background-position: -40px -25px;
 }
 
