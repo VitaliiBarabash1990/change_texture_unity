@@ -801,6 +801,10 @@ form {
 	line-height: 12.734px;
 }
 
+.plug {
+	width: 171px;
+}
+
 .badroom {
 	display: flex;
 	width: 171px;
